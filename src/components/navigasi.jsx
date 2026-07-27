@@ -7,7 +7,8 @@ export default function Navigasi(props) {
     <nav className="fixed top-0 left-0 w-full z-50 bg-red-500 text-white shadow-lg">
       <div className="max-w-7xl mx-auto flex justify-between items-center px-6 py-4">
         {/* Logo */}
-        <img src="https://res.cloudinary.com/dgydtkwhp/image/upload/v1784165232/Ayam_bakar_pak_untung_w2zjen.webp"  alt="Logo" className="h-10 w-10 md:h-12 md:w-12 lg:h-14 lg:w-14 rounded-full object-cover"/>
+        <h3>ayam bakar pak Ayam_bakar pak untung</h3>
+        {/* <img src="https://res.cloudinary.com/dgydtkwhp/image/upload/v1784165232/Ayam_bakar_pak_untung_w2zjen.webp"  alt="Logo" className="h-10 w-10 md:h-12 md:w-12 lg:h-14 lg:w-14 rounded-full object-cover"/> */}
         {/* Menu Desktop */}
         <ul className="hidden md:flex gap-8">
           {props.list.map((data, index) => (
