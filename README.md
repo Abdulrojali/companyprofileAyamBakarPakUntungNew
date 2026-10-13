@@ -1,16 +1,18 @@
-# React + Vite
+# landingpage ayam bakar pak untung 
+website landingpage yang di buat untuk menampilkan profile usaha makanan dari umkm ayam bakar pak untung dengan design responsive dan navigasi yang memudahkan 
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+# deksripsi 
+website ini di buat untuk mengjangkau lebih luas pelanggan untuk usaha umkm ini dan juga sebagai branding dari usaha umkm tersebut. agar mudah di kenali olah banyak orang di kalangan luas. 
 
-Currently, two official plugins are available:
+## instalasi 
+1.git clone "url_project" -> cloning project ke lokal komputer
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+2.npm install -> instalasi dependensi
 
-## React Compiler
+3. npm run dev -> menjalankan aplikasi
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## teknologi yang di gunakan
 
-## Expanding the Oxlint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+1. react js 
+2. tailwindcss 
+3. react-router-dom
